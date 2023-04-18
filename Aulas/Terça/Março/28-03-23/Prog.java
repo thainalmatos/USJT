@@ -17,7 +17,7 @@ public class Prog {
             valor = leitor.nextInt();
         }
         System.out.println("O  maior é " + maior);
-
+        leitor.close();
     }
 
 }

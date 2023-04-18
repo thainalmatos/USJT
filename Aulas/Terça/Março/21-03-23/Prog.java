@@ -18,6 +18,6 @@ public class Prog {
         }if ((idade1 == idade2)){
             System.out.println("São iguais");
         }
-
+        leitor.close();
     }
 }

@@ -9,6 +9,6 @@ public class Valor {
         valor1 = scanner.nextInt();
 
         System.out.println("O valor digitado foi o: " + valor1);
-
+        scanner.close();
     }
 }

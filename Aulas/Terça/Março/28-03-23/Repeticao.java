@@ -7,6 +7,7 @@ public class Repeticao {
             System.out.println("Deseja sair? (0- Não!; 1 - Sim!)");
             stop = leitor.nextInt();
         }
+        leitor.close();
     }
 
 
